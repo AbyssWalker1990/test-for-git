@@ -1,1 +1,8 @@
 Hello from GitHub
+
+Create application that reading file and create new one with formatted data
+
+1. Read file  // fsPromises  (readFile)
+2. Create array from string data with method split. Separator '.' 
+3. Format each sentence: delete trailing spaces (trim()), delete \n by replaceAll('\n', '')
+4. Add to each sentence statistics of how many words and symbols are in 
