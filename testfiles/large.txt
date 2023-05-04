@@ -1,0 +1,19 @@
+Linux terminology: 
+Kernel: Glue between hardware and application   
+Distribution: Collection of software making up a Linux-based OS
+Boot Loader: program that boots operating system(GRUB, ISOLINUX)
+Service: Program that runs as a background process(httpd, nfsd, ntpd, ftpd and named)
+Filesystem: Method for storing and organizing files(ext3, ext4, FAT, NTFS, Btrfs)
+X Window System: Graphical subsystem on nearly all Linux systems
+Desktop Environment: Graphical user interface on top of the operating system(GNOME, KDE, Xfce, Fluxbox)
+Command line: Interface for typing commands on top of the operating system
+Shell: Comman line interpreter that interprets the command line input and instructs
+the operating system to perform any necessary tasks and commands(bash, tcsh, zsh)
+-----------------------------------
+Distributions can be with different versions of Kernel
+-----------------------------------
+Summary:
+Linux borrows from UNIX
+Linux accesses features through files
+Linux is a multitasking OS
+Linux distro includes Kernel and tools
